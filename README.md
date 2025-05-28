@@ -2,10 +2,12 @@
 
 Just some game hacks I made.
 
-## [Final Fantasy - Economic Collapse](FF1_EC/Final Fantasy - Economic Collapse (v1.1) (TheMysticalOne).zip)
+## Final Fantasy - Economic Collapse
 
 - **Hack of**: Final Fantasy (USA) (NES)
 - **Version**: 1.1
+
+Download [here]((FF1_EC/Final%20Fantasy%20-%20Economic%20Collapse%20(v1.1)%20(TheMysticalOne).zip))
 
 The destruction wrought by the fiends of chaos has caused the global economy to fall into ruin.
 Shops shutter and fall into disrepair.
