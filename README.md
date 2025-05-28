@@ -7,7 +7,7 @@ Just some game hacks I made.
 - **Hack of**: Final Fantasy (USA) (NES)
 - **Version**: 1.1
 
-Download [here]((FF1_EC/Final%20Fantasy%20-%20Economic%20Collapse%20(v1.1)%20(TheMysticalOne).zip))
+Download [here](FF1_EC/Final%20Fantasy%20-%20Economic%20Collapse%20(v1.1)%20(TheMysticalOne).zip)
 
 The destruction wrought by the fiends of chaos has caused the global economy to fall into ruin.
 Shops shutter and fall into disrepair.
